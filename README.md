@@ -21,3 +21,6 @@ https://antigones.bitbucket.io/projects/hsk5_graph/#hsk5_rad.gexf
 
 This project has been deeply inspired by the work done in [http://www.hskhsk.com/graphs.html](http://www.hskhsk.com).
 
+# License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
