@@ -1,4 +1,4 @@
-# HSK5 Word Graph
+# HSK5 Words Radicals Graph
 
 Common radicals for words to learn for HSK5.
 
